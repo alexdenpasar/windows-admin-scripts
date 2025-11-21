@@ -6,11 +6,11 @@ A collection of scripts for automating Windows environment administration proces
 
 ## 📋 Table of Contents
 
-- [Network Scripts](#network-scripts)
-- [Backup Scripts](#backup-scripts)
-- [Exchange Server](#exchange-server)
-- [Disk Management](#disk-management)
-- [Utility Scripts](#utility-scripts)
+- [Network Scripts](##network-scripts)
+- [Backup Scripts](##backup-scripts)
+- [Exchange Server](##exchange-server)
+- [Disk Management](##disk-management)
+- [Utility Scripts](##utility-scripts)
 
 ---
 
